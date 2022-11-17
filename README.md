@@ -1,11 +1,11 @@
-PROJET 7 OCR
+Projet tchaton-dev en open source béta test
 
-Créez un réseau social d’entreprise
+mur de post lié au dev
 
 
-INSTALLATION
+INSTALLATION LOCAL
 
-git clone https://github.com/nitaka/DjaroudiKarim_7_08022022.git
+git clone https://github.com/nitaka/tchaton.git
 
 MySQL:
 Dans le fichier tchaton/backend/.env ,mettre le mot de passe d'accès à votre base de donnée et votre nom d'utilisateur si besoin
